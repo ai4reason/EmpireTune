@@ -46,8 +46,8 @@ You also need the Perl SHA1 package (from CPAN).
 2. Import initial protocols:
 
    ```
-   $ ./import-inits.sh eprover examples/inits/tptp tptp
-   importing examples/inits/tptp as tptp ... 10 strategies imported
+   $ ./import-inits.sh eprover examples/inits/eprover/tptp tptp
+   importing examples/inits/eprover/tptp as tptp ... 10 strategies imported
    ```
 
 ### Setup experiments
