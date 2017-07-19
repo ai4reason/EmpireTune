@@ -16,11 +16,11 @@ This distribution contains other software packages:
    obtained at:
    
       http://people.ciirc.cvut.cz/~jakubja5/src/E-2.0-PARG.tar.gz
-* Vampire binary (http://www.vampire.org)
+
+Additionally you need to obtain a Vampire binary (http://www.vprover.org):
    
    Ask Martin Suda (msuda at forsyte.org).
    
-
 
 To run this software you need to have Python, Perl, and Ruby installed.
 You also need the Perl SHA1 package (from CPAN).
